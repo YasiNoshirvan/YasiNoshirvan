@@ -9,11 +9,9 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 🔹 **M.Sc. in Data Science and Engineering**  
 **Politecnico di Torino, Italy**  
-Thesis: *Data-Driven Modeling of Multivariate Energy Signatures for Building Performance Analysis and Forecasting*
 
 🔸 **B.Sc. in Statistics**  
 **Alzahra University, Iran**  
-Thesis: *Tumor Grading in Breast Cancer Patients Using the K-means Clustering Algorithm*
 
 ---
 
@@ -21,104 +19,84 @@ Thesis: *Tumor Grading in Breast Cancer Patients Using the K-means Clustering Al
 
 🧠 **Data Science Intern @ EURIX, Turin, Italy**  
 *May 2025 – Dec 2025*  
-- Developed machine learning models to forecast building energy consumption using real-world data.  
-- Designed preprocessing and feature engineering pipelines in Python.  
-- Compared multiple ML algorithms including Random Forest, XGBoost, and CatBoost.  
-- Contributed to a data-driven framework for building performance analysis and energy efficiency insights.  
-- Developed an interactive LimeSurvey platform to assess indoor environmental quality using HTML/CSS and branching logic.
+- Developed ML models for building energy consumption forecasting using real-world data.  
+- Built preprocessing and feature engineering pipelines in Python; compared Random Forest, XGBoost, and CatBoost models.  
+- Created an interactive LimeSurvey platform for indoor environmental quality assessment using HTML/CSS and branching logic.
 
-🏦 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran**  
+💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran**  
 *Jul 2022 – Dec 2022*  
 - Built predictive models for loan default risk assessment using Logistic Regression and Decision Trees.  
-- Analyzed customer credit history and financial data to identify risk patterns.  
-- Cleaned, processed, and explored loan-related data using SQL.  
+- Analyzed and processed financial/customer data with SQL to identify credit risk patterns.  
 - Translated analytical results into actionable insights for credit risk assessment.
 
 📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran**  
 *Nov 2021 – Mar 2022*  
-- Conducted statistical analysis on labor market data using SPSS.  
-- Prepared socio-economic datasets for analysis.  
-- Applied descriptive and inferential statistical methods to identify employment patterns.  
-- Prepared structured reports and presented analytical findings.
+- Conducted statistical analysis on labor market and socio-economic data using SPSS.  
+- Applied descriptive and inferential methods to identify employment patterns.  
+- Prepared structured analytical reports and presented key findings.
 
 👩‍🏫 **Teaching Assistant @ Alzahra University**  
-- Continuous Multivariable Methods / Machine Learning  
-- Discrete Multivariable Methods / Advanced Regression
+- Assisted in Continuous Multivariable Methods / Machine Learning.  
+- Assisted in Discrete Multivariable Methods / Advanced Regression.
 
 ---
 
 ## 🚀 Technical Skills
 
 ### 🧩 Data Science & Machine Learning
-- Machine Learning | Deep Learning | Statistical Modeling  
-- Predictive Analytics | Regression | Classification | Clustering  
-- Forecasting | Data Mining | Feature Engineering  
-- NLP | Language Modeling | Keyword Extraction  
-- Computer Vision basics | Egocentric Vision | Natural Language Queries
+- Machine Learning | Statistical Modeling | Predictive Analytics  
+- Regression | Classification | Clustering | Forecasting  
+- Feature Engineering | Data Mining  
+- NLP | Keyword Extraction | Language Modeling  
 
-### 🛠️ Programming & Tools
-- Python | R | Java | C++ | MATLAB  
-- NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow | Keras  
-- SQL | NoSQL | MongoDB | Microsoft SQL Server  
-- PySpark | Hadoop  
-- Git | GitHub | Visual Studio  
-- LaTeX | Microsoft Office | Google Sheets
+### 🛠️ Programming & ML Tools
+- Python | R | SQL | MATLAB  
+- NumPy | Pandas | Scikit-learn  
+- PyTorch | TensorFlow | Keras  
+- Git | GitHub | LaTeX  
 
 ### 📊 Data Visualization & BI
-- Power BI | Microsoft Power BI  
-- Data Visualization | Reporting | Analytical Dashboards
+- Power BI | Data Visualization  
+- Reporting | Analytical Dashboards  
 
 ### 🌐 Web & Survey Tools
 - HTML | CSS  
 - LimeSurvey | Survey Design  
-- Basic Front-End / Back-End Development
 
-### 🤝 Soft Skills
-- Analytical Thinking  
-- Problem Solving  
-- Communication  
-- Teamwork  
-- Presentations  
-- Attention to Detail  
-- Research Skills
+### 🤝 Professional Skills
+- Analytical Thinking | Problem Solving  
+- Communication | Teamwork  
+- Presentations | Research Skills  
 
 ---
 
-## 🌟 Noteworthy Projects
+## 💻 Noteworthy Projects
 
-🏢 **Indoor Environmental Quality Survey Platform**  
-Developed an interactive LimeSurvey questionnaire to assess thermal, acoustic, visual, and air quality conditions in buildings. Implemented branching logic and customized the interface using HTML/CSS.
+🌤️ **Data-Driven Modeling of Multivariate Energy Signatures for Building Performance Analysis and Forecasting**
+
+🌡️ **Indoor Environmental Quality Survey Platform**  
 
 🔎 **Keyword Extraction with BERT**  
-Built upon KeyBERT, an unsupervised keyword extraction framework based on BERT embeddings, by exploring refined embedding-based approaches and multilingual adaptation.
 
 🎥 **Natural Language Queries in Egocentric Videos**  
-Worked on the Ego4D NLQ benchmark, focusing on temporal segment prediction to identify the exact moment a natural language query is answered in a video. Evaluated models such as VSLNet and VSLBase using Omnivore and EgoVLP features.
 
 ⚛️ **Particle Trajectory Prediction Problem**  
-Built a data science pipeline to estimate particle coordinates in silicon detectors based on input signal characteristics. Compared multiple regression models, including Multi-Output Regressor.
 
-🩺 **Tumor Grading in Breast Cancer Patients**  
-Bachelor’s thesis project focused on clustering breast cancer patients using the K-means algorithm.
+🩺 **Tumor Grading in Breast Cancer Patients Using the K-means Clustering Algorithm**  
 
-🌫️ **Air Pollution and Cardio-Respiratory Diseases Analysis**  
-Analyzed the relationship between air pollution and cardio-respiratory diseases using Pearson correlation, regression models, and visualization.
+😷 **Air Pollution and Cardio-Respiratory Diseases Analysis**  
 
 📈 **Marriage and Divorce Time Series Analysis**  
-Analyzed marriage and divorce trends in Iran from 1980 to 2020 using time series models and forecasted future trends.
 
 🍽️ **Backend for Online Food Shop and Restaurant**  
-Designed a basic Python backend for restaurant management and online food ordering as an early programming project.
 
 ---
 
 ## 📝 Research & Manuscripts
 
 🧬 **Hypoxia Prediction from Prental Doppler and Postental ABG in IUGR Using Explainable AI**  
-Journal manuscript under submission, focused on explainable AI for fetal hypoxia prediction from Doppler and ABG data.
 
 👶 **AI Digital Twin of Fetal Acid-Base Status from Umbilical Artery Doppler**  
-Journal manuscript in preparation, focused on probabilistic modeling for predicting pH, pCO₂, and BE with uncertainty-aware decision support.
 
 ---
 
