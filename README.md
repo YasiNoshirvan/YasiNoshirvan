@@ -7,41 +7,23 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ## 🎓 My Academic Journey
 
-🔹 **M.Sc. in Data Science and Engineering**  
-**Politecnico di Torino, Italy**  
-
-🔸 **B.Sc. in Statistics**  
-**Alzahra University, Iran**  
+🔹 **M.Sc. in Data Science and Engineering**  📍Politecnico di Torino, Italy 
+🔸 **B.Sc. in Statistics**  📍Alzahra University, Iran* 
 
 ---
 
 ## 💼 Experiences
 
-🧠 **Data Science Intern @ EURIX, Turin, Italy**  
-*May 2025 – Dec 2025*  
-- Developed ML models for building energy consumption forecasting using real-world data.  
-- Built preprocessing and feature engineering pipelines in Python; compared Random Forest, XGBoost, and CatBoost models.  
-- Created an interactive LimeSurvey platform for indoor environmental quality assessment using HTML/CSS and branching logic.
-
-💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran**  
-*Jul 2022 – Dec 2022*  
-- Built predictive models for loan default risk assessment using Logistic Regression and Decision Trees.  
-- Analyzed and processed financial/customer data with SQL to identify credit risk patterns.  
-- Translated analytical results into actionable insights for credit risk assessment.
-
-📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran**  
-*Nov 2021 – Mar 2022*  
-- Conducted statistical analysis on labor market and socio-economic data using SPSS.  
-- Applied descriptive and inferential methods to identify employment patterns.  
-- Prepared structured analytical reports and presented key findings.
-
-👩‍🏫 **Teaching Assistant @ Alzahra University**  
+🧠 **Data Science Intern @ EURIX, Turin, Italy**  (May 2025 – Dec 2025)  
+💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran**  (Jul 2022 – Dec 2022) 
+📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran**  (Nov 2021 – Mar 2022)  
+👩‍🏫 **Teaching Assistant @ Alzahra University:**  
 - Assisted in Continuous Multivariable Methods / Machine Learning.  
 - Assisted in Discrete Multivariable Methods / Advanced Regression.
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Skills
 
 ### 🧩 Data Science & Machine Learning
 - Machine Learning | Statistical Modeling | Predictive Analytics  
@@ -115,14 +97,14 @@ Issued by Young Scholars Club, Feb 2016
 
 ## 🌍 Languages
 
-- English: Full Professional Proficiency  
-- Italian: Limited Working Proficiency
-- Persian: Native / Bilingual  
-- Arabic: Elementary Proficiency
+- 🇬🇧 English: Full Professional Proficiency  
+- 🇮🇹 Italian: Limited Working Proficiency
+- 🇮🇷 Persian: Native / Bilingual  
+- 🇸🇦 Arabic: Elementary Proficiency
 
 ---
 
-## ✨ Beyond Data
+## ✨ Hobbies
 
 ♟️ Chess Player | 🏋️ Gym Enthusiast | 🍳 Cooking | 📸 Photography Lover | 🎸 Guitar Learner | 💃 Dancing 
 
