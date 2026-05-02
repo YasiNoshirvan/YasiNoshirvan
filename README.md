@@ -8,16 +8,19 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 ## 🎓 My Academic Journey
 
 🔹 **M.Sc. in Data Science and Engineering**  📍Politecnico di Torino, Italy 
-🔸 **B.Sc. in Statistics**  📍Alzahra University, Iran* 
+
+🔸 **B.Sc. in Statistics**  📍Alzahra University, Iran
 
 ---
 
 ## 💼 Experiences
 
 🧠 **Data Science Intern @ EURIX, Turin, Italy** (May 2025 – Dec 2025)  
-💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran** (Jul 2022 – Dec 2022) 
 
-📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran** (Nov 2021 – Mar 2022)  
+💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran** (Jul 2022 – Dec 2022)
+
+📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran** (Nov 2021 – Mar 2022)
+
 👩‍🏫 **Teaching Assistant @ Alzahra University:**  
 - Assisted in Continuous Multivariable Methods / Machine Learning (Sep 2022 – Jan 2023)  
 - Assisted in Discrete Multivariable Methods / Advanced Regression (Sep 2021 – Jan 2022)
@@ -26,30 +29,17 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ## 🚀 Skills
 
-### 🧩 Data Science & Machine Learning
-- Machine Learning | Statistical Modeling | Predictive Analytics  
-- Regression | Classification | Clustering | Forecasting  
-- Feature Engineering | Data Mining  
-- NLP | Keyword Extraction | Language Modeling  
-
-### 🛠️ Programming & ML Tools
-- Python | R | SQL | MATLAB  
-- NumPy | Pandas | Scikit-learn  
-- PyTorch | TensorFlow | Keras  
-- Git | GitHub | LaTeX  
-
-### 📊 Data Visualization & BI
-- Power BI | Data Visualization  
-- Reporting | Analytical Dashboards  
-
-### 🌐 Web & Survey Tools
-- HTML | CSS  
-- LimeSurvey | Survey Design  
-
-### 🤝 Professional Skills
-- Analytical Thinking | Problem Solving  
-- Communication | Teamwork  
-- Presentations | Research Skills  
+| Area | Skills |
+|---|---|
+| 🧩 **Data Science** | Machine Learning · Statistical Modeling · Predictive Analytics · Regression · Classification · Clustering · Forecasting |
+| 🧠 **AI & NLP** | NLP · Keyword Extraction · Language Modeling · Feature Engineering · Data Mining |
+| 💻 **Programming & Tools** | Python · R · Java · C++ · MATLAB  |
+| 🤖 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
+| 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
+| 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards |
+| 🌐 **Web & Survey** | HTML · CSS · LimeSurvey · Survey Design · Basic Front-End / Back-End Development |
+| 🛠️ **Tools** | Microsoft Office · Git · GitHub · LaTeX |
+| 🤝 **Professional Skills** | Analytical Thinking · Problem Solving · Communication · Teamwork · Research Skills |
 
 ---
 
@@ -85,14 +75,11 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ## 🏆 Honors & Awards
 
-🥉 **Third Place – Iranian Statistics Student Competition**  
-Issued by Iranian Statistics Association, Sep 2022
+🥉 **Third Place – Iranian Statistics Student Competition** (Iranian Statistics Association, Sep 2022)
 
-🏅 **Accepted into the First Level of the Statistics Olympiad**  
-Issued by Young Scholars Club, May 2022
+🏅 **Accepted into the First Level of the Statistics Olympiad** (Young Scholars Club, May 2022)
 
-🏅 **Accepted into the First and Second Level of the Mathematics Olympiad**  
-Issued by Young Scholars Club, Feb 2016
+🏅 **Accepted into the First and Second Level of the Mathematics Olympiad** (Young Scholars Club, Feb 2016)
 
 ---
 
