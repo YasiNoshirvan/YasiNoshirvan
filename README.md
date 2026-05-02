@@ -14,12 +14,12 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ## 💼 Experiences
 
-🧠 **Data Science Intern @ EURIX, Turin, Italy**  (May 2025 – Dec 2025)  
-💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran**  (Jul 2022 – Dec 2022) 
-📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran**  (Nov 2021 – Mar 2022)  
+🧠 **Data Science Intern @ EURIX, Turin, Italy** (May 2025 – Dec 2025)  
+💰 **Statistics and Information Specialist @ Tose’e Ta’avon Bank, Iran** (Jul 2022 – Dec 2022) 
+📊 **Research Intern – Statistical Analysis @ Ministry of Cooperative, Labor and Social Welfare, Iran** (Nov 2021 – Mar 2022)  
 👩‍🏫 **Teaching Assistant @ Alzahra University:**  
-- Assisted in Continuous Multivariable Methods / Machine Learning.  
-- Assisted in Discrete Multivariable Methods / Advanced Regression.
+- Assisted in Continuous Multivariable Methods / Machine Learning (Sep 2022 – Jan 2023)  
+- Assisted in Discrete Multivariable Methods / Advanced Regression (Sep 2021 – Jan 2022)
 
 ---
 
