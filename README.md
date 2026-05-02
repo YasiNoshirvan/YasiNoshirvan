@@ -4,12 +4,19 @@ I'm a Data Scientist with a strong background in Statistics, Machine Learning, a
 I enjoy turning real-world data into meaningful insights, building predictive models, and creating data-driven solutions for industrial, healthcare, and research problems.
 
 ---
+## 🚀 Skills
 
-## 🎓 My Academic Journey
+| Area | Skills |
+|---|---|
+| 🤖 **Data Science & AI** | Machine Learning · Statistical Modeling · Predictive Analytics · Regression · Classification · Clustering · Forecasting · NLP · Keyword Extraction · Language Modeling · Feature Engineering · Data Mining |
+| 💻 **Programming** | Python · R · Java · C++ · MATLAB  |
+| 🧩 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
+| 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
+| 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards |
+| 🌐 **Web & Survey** | HTML · CSS · LimeSurvey · Survey Design · Basic Front-End / Back-End Development |
+| 🛠️ **Tools** | Microsoft Office · Git · GitHub · LaTeX |
+| 🤝 **Professional Skills** | Analytical Thinking · Problem Solving · Communication · Teamwork · Research Skills |
 
-🔹 **M.Sc. in Data Science and Engineering**  📍Politecnico di Torino, Italy 
-
-🔸 **B.Sc. in Statistics**  📍Alzahra University, Iran
 
 ---
 
@@ -24,21 +31,6 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 👩‍🏫 **Teaching Assistant @ Alzahra University:**  
 - Assisted in Continuous Multivariable Methods / Machine Learning (Sep 2022 – Jan 2023)  
 - Assisted in Discrete Multivariable Methods / Advanced Regression (Sep 2021 – Jan 2022)
-
----
-
-## 🚀 Skills
-
-| Area | Skills |
-|---|---|
-| 🤖 **Data Science & AI** | Machine Learning · Statistical Modeling · Predictive Analytics · Regression · Classification · Clustering · Forecasting · NLP · Keyword Extraction · Language Modeling · Feature Engineering · Data Mining |
-| 💻 **Programming** | Python · R · Java · C++ · MATLAB  |
-| 🧩 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
-| 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
-| 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards |
-| 🌐 **Web & Survey** | HTML · CSS · LimeSurvey · Survey Design · Basic Front-End / Back-End Development |
-| 🛠️ **Tools** | Microsoft Office · Git · GitHub · LaTeX |
-| 🤝 **Professional Skills** | Analytical Thinking · Problem Solving · Communication · Teamwork · Research Skills |
 
 ---
 
@@ -64,6 +56,14 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ---
 
+## 🎓 My Academic Journey
+
+🔹 **M.Sc. in Data Science and Engineering**  📍Politecnico di Torino, Italy 
+
+🔸 **B.Sc. in Statistics**  📍Alzahra University, Iran
+
+---
+
 ## 📝 Research & Manuscripts
 
 🧬 **Hypoxia Prediction from Prental Doppler and Postental ABG in IUGR Using Explainable AI**  
@@ -85,8 +85,8 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 ## 🌍 Languages
 
 - 🇬🇧 English: Full Professional Proficiency  
-- 🇮🇹 Italian: Limited Working Proficiency
-- 🇮🇷 Persian: Native / Bilingual  
+- 🇮🇹 Italian: Intermediate
+- 🇮🇷 Persian: Native
 - 🇸🇦 Arabic: Elementary Proficiency
 
 ---
