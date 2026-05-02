@@ -31,10 +31,9 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 | Area | Skills |
 |---|---|
-| 🧩 **Data Science** | Machine Learning · Statistical Modeling · Predictive Analytics · Regression · Classification · Clustering · Forecasting |
-| 🧠 **AI & NLP** | NLP · Keyword Extraction · Language Modeling · Feature Engineering · Data Mining |
+| 🤖 **Data Science & AI** | Machine Learning · Statistical Modeling · Predictive Analytics · Regression · Classification · Clustering · Forecasting · NLP · Keyword Extraction · Language Modeling · Feature Engineering · Data Mining |
 | 💻 **Programming & Tools** | Python · R · Java · C++ · MATLAB  |
-| 🤖 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
+| 🧩 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
 | 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
 | 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards |
 | 🌐 **Web & Survey** | HTML · CSS · LimeSurvey · Survey Design · Basic Front-End / Back-End Development |
