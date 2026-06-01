@@ -12,7 +12,7 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 | 💻 **Programming** | Python · R · Java · C++ · MATLAB  |
 | 🧩 **ML & DL Libraries** | NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Keras |
 | 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
-| 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards |
+| 📊 **Visualization & BI** | Power BI · Data Visualization · Reporting · Analytical Dashboards . Business Analysis |
 | 🌐 **Web & Survey** | HTML · CSS · LimeSurvey · Survey Design · Basic Front-End / Back-End Development |
 | 🛠️ **Tools** | Microsoft Office · Git · GitHub · LaTeX |
 | 🤝 **Professional Skills** | Analytical Thinking · Problem Solving · Communication · Teamwork · Research Skills |
