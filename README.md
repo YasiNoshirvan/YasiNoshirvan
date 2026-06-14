@@ -66,9 +66,11 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 
 ## 📝 Research & Manuscripts
 
-🧬 **Hypoxia Prediction from Prental Doppler and Postental ABG in IUGR Using Explainable AI**  
+🧬 **Hypoxia Prediction from Prenatal Doppler and Postnatal ABG in IUGR Using Explainable AI**
 
-👶 **AI Digital Twin of Fetal Acid-Base Status from Umbilical Artery Doppler**  
+👶 **AI Digital Twin of Fetal Acid-Base Status from Umbilical Artery Doppler: A Probabilistic and Causal Framework for Timing-of-Delivery Decision Support**
+
+👂 **Combined Noise Exposure and Hearing Difficulty as Independent Correlates of Tinnitus-Related Trouble Falling Asleep: A Nationally Representative Analysis of U.S. Adults**
 
 ---
 
