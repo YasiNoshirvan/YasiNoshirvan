@@ -13,7 +13,7 @@ I enjoy turning real-world data into meaningful insights, building predictive mo
 | 🧩 **ML & DL Libraries** | Scikit-learn · PyTorch · TensorFlow · Keras . NumPy · Pandas · Matplotlib |
 | 🗄️ **Database & Big Data Tools** | SQL · NoSQL · Hadoop · PySpark |
 | 📊 **Visualization & BI** | Advanced Excel . Power BI · Data Visualization · Reporting · Analytical Dashboards . Business Analysis |
-| 🌐 **Web & software** | API Logic · Object-Oriented Programming · Backend/ Frontend Development · Azure · CloudConcepts(Basic) · Survey Design · HTML · CSS |
+| 🌐 **Web & software** |  HTML · CSS · Object-Oriented Programming · Backend/ Frontend Development · API Logic · Azure · CloudConcepts(Basic) |
 | 🛠️ **Tools** | Microsoft Office · Git · GitHub · LaTeX |
 | 🤝 **Professional Skills** | Analytical Thinking · Problem Solving · Communication · Teamwork · Research Skills |
 
