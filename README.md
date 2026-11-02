@@ -117,6 +117,18 @@ At Alzahra University, I supported courses in **multivariate statistical methods
 - **M.Sc. in Data Science and Engineering** — Politecnico di Torino, Italy
 - **B.Sc. in Statistics** — Alzahra University, Iran
 
+---
+
+## 🌍 Languages 
+
+
+- 🇺🇸 English (full professional proficiency)
+- 🇮🇹 Italian (intermediate)
+- 🇮🇷 Persian (native) 
+- 🇸🇦 Arabic (elementary)
+
+---
+
 ## 🏅 Honors & Awards
 
 - 🥉 **3rd Place**, Iranian Statistics Student Competition — Iranian Statistics Association (2022)
@@ -126,8 +138,6 @@ At Alzahra University, I supported courses in **multivariate statistical methods
 ---
 
 ## 🌍 Beyond Code
-
-**Languages:** Persian (native) · English (full professional proficiency) · Italian (intermediate) · Arabic (elementary)
 
 **Outside work:** ♟️ Chess · 🏋️ Fitness · 📸 Photography · 🍳 Cooking · 🎸 Guitar · 💃 Dancing
 
