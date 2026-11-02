@@ -31,7 +31,7 @@ I'm a Data Science and Engineering graduate with a foundation in **statistics**,
 | **Data science & statistics** | Statistical modeling · EDA · Feature engineering · Regression & classification · Clustering · Time series · Hypothesis testing |
 | **Machine learning** | scikit-learn · XGBoost · CatBoost · Model selection & validation · Explainable AI (SHAP) |
 | **Deep learning & NLP** | PyTorch · TensorFlow / Keras · Transformers · BERT · Sentence embeddings · Text analysis |
-| **LLMs & AI agents** | LangChain · LangGraph · Groq / LLM APIs · RAG · ChromaDB · Function / tool calling · Prompt design |
+| **LLMs & AI agents** | LangChain · LangGraph · Groq / LLM APIs · RAG · ChromaDB · Function / tool calling · Prompt design . Azure and Cloud Concepts(Basic)|
 | **Computer vision** | OpenCV · Image processing · Video analysis · OCR |
 | **Data & visualization** | pandas · NumPy · Matplotlib · Streamlit · Power BI · Excel |
 | **Data engineering & tools** | Git · GitHub · PySpark · Hadoop · LaTeX · Jupyter Notebook |
