@@ -119,7 +119,7 @@ At Alzahra University, I supported courses in **multivariate statistical methods
 
 ---
 
-## 🌍 Languages 
+## 🗣 Languages 
 
 
 - 🇬🇧 English (full professional proficiency)
