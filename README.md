@@ -116,9 +116,9 @@ My research interests include **medical AI, explainable modeling, probabilistic 
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
-| **Data Science Intern** | EURIX · Turin, Italy | May 2025 – Dec 2025 |
-| **Statistics & Information Specialist** | Tose’e Ta’avon Bank · Iran | Jul 2022 – Dec 2022 |
-| **Research Intern — Statistical Analysis** | Ministry of Cooperatives, Labour and Social Welfare · Iran | Nov 2021 – Mar 2022 |
+| **Machine Learning and AI Developer Intern** | EURIX · Turin, Italy | APR 2025 – MAR 2026 |
+| **Statistics Specialist and Risk Manager** | Tose’e Ta’avon Bank · Iran | JUL 2022 – FEB 2023 |
+| **Statistical Data Analyst Intern** | Ministry of Cooperatives, Labour and Social Welfare · Iran | OCT 2021 – Mar 2022 |
 | **Teaching Assistant** | Alzahra University · Iran | 2021 – 2023 |
 
 At Alzahra University, I supported courses in **multivariate statistical methods, machine learning, and advanced regression**.
