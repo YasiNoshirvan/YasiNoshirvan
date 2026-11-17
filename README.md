@@ -90,6 +90,18 @@ I'm a Data Science and Engineering graduate with a foundation in **statistics**,
 
 ---
 
+## 📚 Published Research
+
+### 👂 Noise Exposure, Hearing Difficulty & Tinnitus-Related Sleep Disturbance
+
+**Published in *Noise & Health* (2026)** · [Read the paper](https://doi.org/10.4103/nah.nah_81_26) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/42684364/)
+
+**Paper:** *Combined Noise Exposure and Hearing Difficulty as Independent Correlates of Tinnitus-Related Trouble Falling Asleep: A Nationally Representative Analysis of U.S. Adults*
+
+Co-authored a nationally representative epidemiological study using the 2014 U.S. National Health Interview Survey to examine associations between occupational/leisure noise exposure, hearing difficulty, and tinnitus-related trouble falling asleep. The study used survey-weighted statistical modeling. **My contributions:** data curation and visualization.
+
+---
+
 ## 🔬 Research & Manuscripts
 
 My research interests include **medical AI, explainable modeling, probabilistic prediction, and data-driven clinical decision support**.
@@ -97,7 +109,6 @@ My research interests include **medical AI, explainable modeling, probabilistic 
 - 🧬 **Hypoxia Prediction from Prenatal Doppler and Postnatal ABG in IUGR Using Explainable AI**
 - 👶 **AI Digital Twin of Fetal Acid-Base Status from Umbilical Artery Doppler: A Probabilistic and Causal Framework for Timing-of-Delivery Decision Support**
 - 🦷 **Dental Developmental Clock: Medical AI Using Deep Learning and Computer Vision on Longitudinal Pediatric Radiographs**
-- 👂 **Combined Noise Exposure and Hearing Difficulty as Independent Correlates of Tinnitus-Related Trouble Falling Asleep: A Nationally Representative Analysis of U.S. Adults**
 
 *Research and manuscript titles are listed here for context; inclusion does not imply peer-reviewed publication or clinical validation.*
 
