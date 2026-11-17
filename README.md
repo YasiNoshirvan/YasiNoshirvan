@@ -40,6 +40,26 @@ I'm a Data Science and Engineering graduate with a foundation in **statistics**,
 
 ---
 
+## 💼 Experience
+
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| **Machine Learning and AI Developer Intern** | EURIX · Turin, Italy | APR 2025 – MAR 2026 |
+| **Statistics Specialist and Risk Manager** | Tose’e Ta’avon Bank · Iran | JUL 2022 – FEB 2023 |
+| **Statistical Data Analyst Intern** | Ministry of Cooperatives, Labour and Social Welfare · Iran | OCT 2021 – Mar 2022 |
+| **Teaching Assistant** | Alzahra University · Iran | 2021 – 2023 |
+
+At Alzahra University, I supported courses in **multivariate statistical methods, machine learning, and advanced regression**.
+
+---
+
+## 🎓 Education
+
+- **M.Sc. in Data Science and Engineering** — Politecnico di Torino, Italy
+- **B.Sc. in Statistics** — Alzahra University, Iran
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧬 Medical AI & Explainable Machine Learning
@@ -111,22 +131,6 @@ My research interests include **medical AI, explainable modeling, probabilistic 
 - 🦷 **Dental Developmental Clock: Medical AI Using Deep Learning and Computer Vision on Longitudinal Pediatric Radiographs**
 
 *Research and manuscript titles are listed here for context; inclusion does not imply peer-reviewed publication or clinical validation.*
-
-## 💼 Experience
-
-| Role | Organization | Period |
-| :--- | :--- | :--- |
-| **Machine Learning and AI Developer Intern** | EURIX · Turin, Italy | APR 2025 – MAR 2026 |
-| **Statistics Specialist and Risk Manager** | Tose’e Ta’avon Bank · Iran | JUL 2022 – FEB 2023 |
-| **Statistical Data Analyst Intern** | Ministry of Cooperatives, Labour and Social Welfare · Iran | OCT 2021 – Mar 2022 |
-| **Teaching Assistant** | Alzahra University · Iran | 2021 – 2023 |
-
-At Alzahra University, I supported courses in **multivariate statistical methods, machine learning, and advanced regression**.
-
-## 🎓 Education
-
-- **M.Sc. in Data Science and Engineering** — Politecnico di Torino, Italy
-- **B.Sc. in Statistics** — Alzahra University, Iran
 
 ---
 
